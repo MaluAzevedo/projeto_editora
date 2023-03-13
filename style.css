@@ -16,6 +16,8 @@ header h1{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 50pt;
+    text-decoration:overline underline;
+    
 }
 
 div h2 {
