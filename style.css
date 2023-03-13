@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body {
+    background-color: bisque;
+    margin: 30px;
+    
+}
+header {
+    background-color: cadetblue;
+    padding: 10px;
+    border: solid white 5px;
+      
+}
+
+header h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50pt;
+}
+
+div h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(176, 220, 221);
+    border: 3px solid white;
+}
+
+form input {
+    font-size: 120%;
+}
+
+button {
+    font-size: 120%;
+}
+
+div p {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    font-size: 120%;
+}
